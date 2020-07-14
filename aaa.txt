@@ -1,6 +1,0 @@
-hi
-<<<<<<< HEAD
-in local
-=======
-
->>>>>>> 9cbbb81b95a9cd9f2c251f587a3e4c4ea8099c28
